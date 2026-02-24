@@ -1,1 +1,1 @@
-# Machine-Learning-Prediksi-Diabetes
+# Machine-Learning-Diabetes
